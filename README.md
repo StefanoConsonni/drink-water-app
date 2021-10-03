@@ -8,7 +8,7 @@
 
 ## General info
 
-Drinking water is vital! This lovely app keeps track of how many glasses of water you are drinking during the day (two liters is the recommended quantity). I built it using HTML, CSS and Javascript.
+Drinking water is vital! This lovely app keeps track of how many glasses of water you are drinking during the day (two liters is the average recommended quantity). I built it using HTML, CSS and Javascript.
 
 ## Technologies
 
@@ -20,4 +20,4 @@ This project is created with:
 
 ## Setup
 
-To run this project, just open it in your local server using the Live Server VS Code extension.
+To run the app, open it in your local development server using the Live Server VS Code extension.
